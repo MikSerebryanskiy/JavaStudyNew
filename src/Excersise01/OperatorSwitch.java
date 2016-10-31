@@ -5,6 +5,6 @@ package Excersise01;
  */
 public class OperatorSwitch {
     public static void main(String[] args) {
-        
+        String s =
     }
 }
